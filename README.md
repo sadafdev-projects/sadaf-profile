@@ -6,6 +6,7 @@
 🔭 Passionate about Artificial Intelligence, Frontend Development  
 💼 Founder of Awan Digital Hub - helping businesses grow with Tech & Digital Marketing  
 ⚡ Motto: “Code + Creativity = Innovation”
+💼 Email: sadafawandeveloper@gmail.com
 
 ## 🛠️ Tech Stack
 **Languages:** Python 🐍 | Java ☕ | JavaScript ⚡ | 🌐 HTML | 🎨 CSS  
